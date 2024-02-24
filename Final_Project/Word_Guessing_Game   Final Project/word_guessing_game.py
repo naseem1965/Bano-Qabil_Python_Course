@@ -42,7 +42,7 @@ light_red = (150, 0, 0)
 wordFrame = pygame.image.load("backframe.jpg")# On which word would be printed
 scoreButton = pygame.image.load("score.png")  # The score button
 levelButton = pygame.image.load("level.png")  # The level button
-heart = pygame.image.load("heart.jpg")  # The heart-- chances left for each word
+heart = pygame.image.load("heart.png")  # The heart-- chances left for each word
 inputText = pygame.image.load(
     "input.png")  # Here the programmer will guess the word, and marks will be displayed for once
 percent = pygame.image.load("percents.png")  # The background for marks
