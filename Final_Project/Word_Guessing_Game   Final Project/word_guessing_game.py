@@ -381,7 +381,7 @@ def startScreen():
 
     while not sExit:
         gameDisplay.fill(black)
-        gameDisplay.blit(heading, [200, 100])
+        gameDisplay.blit(heading, [70, 100])
 
         cur = pygame.mouse.get_pos()
         click = pygame.mouse.get_pressed()
